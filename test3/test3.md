@@ -22,7 +22,7 @@ SQL>ALTER USER your_user QUOTA UNLIMITED ON USERS03;
 SQL>exit
 
 ####结果：
-![ALT TEXT](A.png)
+![ALT TEXT](A1.png)
 
 ####第2步：以ZLW身份登录,并运行脚本文件test3.sql:
 
